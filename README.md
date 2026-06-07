@@ -520,17 +520,6 @@ uv run pytest
 * Add automatic backup support
 * Add dashboard integration
 
-## Git Commit Example
-
-```bash
-git add .
-```
-
-```bash
-git commit -m "feat: add AI-powered receipt parsing and expense extraction" \
-  -m "Implement receipt image processing to extract merchant, date, total amount, currency, category, and purchased items. Integrate parsed receipt data with the expense tracking workflow, add validation and error handling, and store validated records in the financial usage spreadsheet."
-```
-
 ## License
 
 This project is currently intended for personal and educational use.
